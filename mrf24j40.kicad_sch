@@ -1851,7 +1851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 224.536 106.934 90)
 			(hide yes)
 			(show_name no)
@@ -1896,7 +1896,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "R75")
 					(unit 1)
@@ -1973,7 +1973,7 @@
 			(uuid "43aac7b6-ceb4-4e56-99df-9b9f7cf438ed")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "#PWR0113")
 					(unit 1)
@@ -2050,7 +2050,7 @@
 			(uuid "c5dbb2c0-7d30-42eb-b6a4-9cae92db780e")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "#PWR0116")
 					(unit 1)
@@ -2127,7 +2127,7 @@
 			(uuid "5fb3360b-cfd2-45e8-8174-69df582caa39")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "#PWR0109")
 					(unit 1)
@@ -2207,7 +2207,7 @@
 			(uuid "7194a5b3-7a28-4512-bb0c-583ee6085114")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "JP9")
 					(unit 1)
@@ -2284,7 +2284,7 @@
 			(uuid "e94e46b0-d5fa-47f7-afcd-7400b2f3235a")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "#PWR0112")
 					(unit 1)
@@ -2323,7 +2323,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 197.866 106.934 90)
 			(hide yes)
 			(show_name no)
@@ -2368,7 +2368,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "R72")
 					(unit 1)
@@ -2407,7 +2407,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 216.916 106.934 90)
 			(hide yes)
 			(show_name no)
@@ -2452,7 +2452,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "R74")
 					(unit 1)
@@ -2532,7 +2532,7 @@
 			(uuid "ab7820ef-e1a6-42ac-80c8-d66bcb286152")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "JP7")
 					(unit 1)
@@ -2571,7 +2571,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 162.306 77.724 90)
 			(hide yes)
 			(show_name no)
@@ -2616,7 +2616,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "R70")
 					(unit 1)
@@ -2696,7 +2696,7 @@
 			(uuid "85e92226-52e9-43eb-809b-465a27c44142")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "JP8")
 					(unit 1)
@@ -2783,7 +2783,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "#PWR0114")
 					(unit 1)
@@ -2873,7 +2873,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "C30")
 					(unit 1)
@@ -2953,7 +2953,7 @@
 			(uuid "015a8bf4-68e5-4513-90e2-7d3e0df52b64")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "JP10")
 					(unit 1)
@@ -2992,7 +2992,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 112.776 71.374 90)
 			(hide yes)
 			(show_name no)
@@ -3037,7 +3037,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "R69")
 					(unit 1)
@@ -3076,7 +3076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 208.026 106.934 90)
 			(hide yes)
 			(show_name no)
@@ -3121,7 +3121,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "R73")
 					(unit 1)
@@ -3208,7 +3208,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "#PWR0110")
 					(unit 1)
@@ -3247,7 +3247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 190.246 81.534 90)
 			(hide yes)
 			(show_name no)
@@ -3292,7 +3292,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "R71")
 					(unit 1)
@@ -3460,7 +3460,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "U5")
 					(unit 1)
@@ -3537,7 +3537,7 @@
 			(uuid "3729cf5c-a13a-4c2c-9e19-b7ce7f7d275b")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "#PWR0111")
 					(unit 1)
@@ -3624,7 +3624,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
 					(reference "#PWR0115")
 					(unit 1)

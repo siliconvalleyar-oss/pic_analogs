@@ -3477,6 +3477,50 @@
 		(color 0 0 0 0)
 		(uuid "ee47250e-bb32-4a4f-a641-326407968054")
 	)
+	(no_connect
+		(at 147.32 133.35)
+		(uuid "1086b676-7320-44d6-aa4c-8a851ff35f1c")
+	)
+	(no_connect
+		(at 187.96 123.19)
+		(uuid "213a21bf-ea1b-42ac-8118-ffa4abe18b02")
+	)
+	(no_connect
+		(at 147.32 125.73)
+		(uuid "2e1a773d-13ca-4332-97a9-830555e4a556")
+	)
+	(no_connect
+		(at 187.96 118.11)
+		(uuid "44f364a8-aada-4988-b311-127cf7e4e8e0")
+	)
+	(no_connect
+		(at 147.32 120.65)
+		(uuid "5b2b09c8-0b28-4cc7-a9ff-a84f08da8475")
+	)
+	(no_connect
+		(at 147.32 138.43)
+		(uuid "7f328398-9fac-4407-a27b-3d5c27950b14")
+	)
+	(no_connect
+		(at 187.96 130.81)
+		(uuid "98bf09aa-f6df-47a9-a622-9b4b65cc3203")
+	)
+	(no_connect
+		(at 147.32 135.89)
+		(uuid "b60e45ea-4810-468c-a1f1-2fd3e56a22ec")
+	)
+	(no_connect
+		(at 187.96 133.35)
+		(uuid "bccdf5f7-621c-45cb-b468-09fd332fc374")
+	)
+	(no_connect
+		(at 147.32 123.19)
+		(uuid "f006fa5e-7684-472a-ba4c-d80b9a6e0720")
+	)
+	(no_connect
+		(at 187.96 115.57)
+		(uuid "fb4f88e2-bbd2-4e1f-8d92-f4a784ff2ec3")
+	)
 	(wire
 		(pts
 			(xy 187.96 87.63) (xy 201.93 87.63)
@@ -3519,6 +3563,16 @@
 	)
 	(wire
 		(pts
+			(xy 171.45 177.8) (xy 144.78 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19c0c02d-db31-4d4d-baf5-456b3e115312")
+	)
+	(wire
+		(pts
 			(xy 187.96 92.71) (xy 201.93 92.71)
 		)
 		(stroke
@@ -3546,6 +3600,16 @@
 			(type default)
 		)
 		(uuid "1d86493d-aa99-4aa3-a93e-f680125c5fa9")
+	)
+	(wire
+		(pts
+			(xy 158.75 180.34) (xy 158.75 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20cac10e-9fe5-4945-bb13-af5825ec2d69")
 	)
 	(wire
 		(pts
@@ -3609,16 +3673,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 115.57) (xy 220.98 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e0d20fc-8d2d-46a3-ac62-2d4f4b9ea0c8")
-	)
-	(wire
-		(pts
 			(xy 97.79 62.23) (xy 106.68 62.23)
 		)
 		(stroke
@@ -3636,16 +3690,6 @@
 			(type default)
 		)
 		(uuid "32816eaf-5874-45d1-a0c5-401df47ff6b1")
-	)
-	(wire
-		(pts
-			(xy 208.28 118.11) (xy 220.98 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32e7eae8-cab9-4ecf-b875-4e1d8fa21da7")
 	)
 	(wire
 		(pts
@@ -3809,16 +3853,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 118.11) (xy 187.96 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52b4f4ff-4f92-429c-98eb-c101fcc9cd56")
-	)
-	(wire
-		(pts
 			(xy 214.63 40.64) (xy 201.93 40.64)
 		)
 		(stroke
@@ -3826,16 +3860,6 @@
 			(type default)
 		)
 		(uuid "553a5841-a584-4010-abd7-9c652acb4318")
-	)
-	(wire
-		(pts
-			(xy 204.47 128.27) (xy 199.39 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d911c90-62cf-4cd7-b497-1b33108c9180")
 	)
 	(wire
 		(pts
@@ -3939,16 +3963,6 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 115.57) (xy 187.96 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76cfbae8-ec4c-460c-8e7a-617bd3dd33b7")
-	)
-	(wire
-		(pts
 			(xy 210.82 135.89) (xy 205.74 135.89)
 		)
 		(stroke
@@ -3999,6 +4013,26 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 177.8) (xy 144.78 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87201b44-20eb-4e7e-a0e1-ed61c337d619")
+	)
+	(wire
+		(pts
+			(xy 144.78 195.58) (xy 144.78 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d37143b-bd9f-4576-bd17-ecbfc6b9a7b1")
+	)
+	(wire
+		(pts
 			(xy 133.35 107.95) (xy 147.32 107.95)
 		)
 		(stroke
@@ -4006,6 +4040,16 @@
 			(type default)
 		)
 		(uuid "8d55c9a9-0ca3-4f4b-8fb5-fceeebcac347")
+	)
+	(wire
+		(pts
+			(xy 171.45 180.34) (xy 158.75 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9027b9b1-a53e-4f7c-bee8-ffb4417e62db")
 	)
 	(wire
 		(pts
@@ -4106,6 +4150,16 @@
 			(type default)
 		)
 		(uuid "b10a9879-ec08-4db8-bda7-c743d69a0179")
+	)
+	(wire
+		(pts
+			(xy 158.75 195.58) (xy 158.75 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8bb8bb2-ec29-4a47-9afd-39e1c5b24e84")
 	)
 	(wire
 		(pts
@@ -4319,7 +4373,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 128.27) (xy 187.96 128.27)
+			(xy 187.96 128.27) (xy 204.47 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4628,7 +4682,7 @@
 		(uuid "ec45c6e7-955d-45da-b91d-6c2974191e99")
 	)
 	(label "TV"
-		(at 139.7 143.51 180)
+		(at 132.08 143.51 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4682,30 +4736,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "MISO_RPI"
-		(shape input)
-		(at 241.3 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0be4bdcb-e047-4258-93f5-6260d57b2d15")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 252.9144 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -5021,30 +5051,6 @@
 			)
 		)
 	)
-	(global_label "PWM0"
-		(shape input)
-		(at 191.77 177.8 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6d10e112-d174-4816-96ae-0d36573dd79e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 200.0581 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "GPIO25"
 		(shape input)
 		(at 132.08 95.25 180)
@@ -5237,30 +5243,6 @@
 			)
 		)
 	)
-	(global_label "PWM1"
-		(shape input)
-		(at 191.77 181.61 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b0998e47-8c91-4f4d-bb6f-3d8dcf94abd6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 200.0581 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "WAKE_RPI"
 		(shape input)
 		(at 233.68 83.82 180)
@@ -5381,9 +5363,9 @@
 			)
 		)
 	)
-	(global_label "INT_RPI"
+	(global_label "PWM0"
 		(shape input)
-		(at 241.3 78.74 0)
+		(at 171.45 177.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5391,9 +5373,9 @@
 			)
 			(justify left)
 		)
-		(uuid "ccd4ea35-3a6b-405e-9c78-b753cfb6a8a2")
+		(uuid "c253bf69-3b1e-47f0-89e4-51e976178ff1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 251.2211 78.74 0)
+			(at 179.7381 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5418,6 +5400,30 @@
 		(uuid "d12d3509-db0b-443a-98c1-6967095689ca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 208.4643 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "PWM1"
+		(shape input)
+		(at 171.45 180.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d1bfb466-92b4-4b9d-8ada-186ceaa6f0fc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 179.7381 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5725,9 +5731,87 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR080")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 135.89 143.51 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0c018869-64cc-4c5d-9f00-2159ebac7838")
+		(property "Reference" "R97"
+			(at 135.89 149.86 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2k2"
+			(at 135.89 147.32 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 136.144 142.494 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 135.89 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 135.89 143.51 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4ced396f-d3fc-4062-a87f-90b3b70feba4")
+		)
+		(pin "2"
+			(uuid "f5f331ea-7ab2-472f-8086-ea0c4e435d24")
+		)
+		(instances
+			(project "pic_analogs"
+				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
+					(reference "R97")
 					(unit 1)
 				)
 			)
@@ -5817,7 +5901,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "R52")
 					(unit 1)
@@ -5911,7 +5995,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "J35")
 					(unit 1)
@@ -5920,8 +6004,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 204.47 118.11 90)
+		(lib_id "power:GND")
+		(at 144.78 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5929,9 +6013,11 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "22f14cfc-f84a-4065-8d12-be2f2cff591c")
-		(property "Reference" "R55"
-			(at 214.63 116.84 90)
+		(fields_autoplaced yes)
+		(uuid "235fadab-6bd6-4f2a-abfe-49eff7c7afda")
+		(property "Reference" "#PWR097"
+			(at 144.78 209.55 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5940,8 +6026,8 @@
 				)
 			)
 		)
-		(property "Value" "4K7"
-			(at 209.55 116.84 90)
+		(property "Value" "GND"
+			(at 144.78 208.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5950,8 +6036,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 204.47 119.888 90)
+		(property "Footprint" ""
+			(at 144.78 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5962,7 +6048,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.47 118.11 0)
+			(at 144.78 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5973,7 +6059,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 204.47 118.11 0)
+			(at 144.78 203.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5983,29 +6069,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "4869f006-df8b-47a4-bb60-43c46366702f")
-		)
-		(pin "2"
-			(uuid "14f27bd0-7b9a-4528-a813-44028a237fea")
+			(uuid "9565a7f3-e2f6-4db2-8997-3130ff511b3d")
 		)
 		(instances
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/043d7997-457e-4619-a5b3-825bed78c0a6"
-					(reference "R?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a"
-					(reference "R?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/dd14cf3d-4389-4481-a76a-0ee1e1deddd9"
-					(reference "R?")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
-					(reference "R55")
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -6093,7 +6162,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "C22")
 					(unit 1)
@@ -6180,7 +6249,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR068")
 					(unit 1)
@@ -6267,7 +6336,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR075")
 					(unit 1)
@@ -6357,7 +6426,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "C20")
 					(unit 1)
@@ -6444,9 +6513,86 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR071")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 158.75 203.2 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "421c2065-a673-450e-9467-812519890232")
+		(property "Reference" "#PWR098"
+			(at 158.75 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 158.75 208.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 158.75 203.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "81ac8fdc-b4dd-4620-936a-215ea4a98545")
+		)
+		(instances
+			(project "pic_analogs"
+				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -6531,7 +6677,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR081")
 					(unit 1)
@@ -6621,7 +6767,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "D7")
 					(unit 1)
@@ -6711,101 +6857,9 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "C21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 196.85 115.57 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "601f654b-15cd-4e41-8155-ad11b4dea75b")
-		(property "Reference" "R51"
-			(at 207.01 114.3 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4K7"
-			(at 201.93 114.3 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 196.85 117.348 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 196.85 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 196.85 115.57 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bfb6f543-e419-47e3-8075-3f0f910c5538")
-		)
-		(pin "2"
-			(uuid "a8f318fc-864d-4e63-adc8-e65991290868")
-		)
-		(instances
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/043d7997-457e-4619-a5b3-825bed78c0a6"
-					(reference "R?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a"
-					(reference "R?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/dd14cf3d-4389-4481-a76a-0ee1e1deddd9"
-					(reference "R?")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
-					(reference "R51")
 					(unit 1)
 				)
 			)
@@ -6890,101 +6944,9 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR082")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 195.58 128.27 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "7a3cb420-f795-48ed-9b4d-eb0bf6e7b4b8")
-		(property "Reference" "R50"
-			(at 195.58 128.27 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4K7"
-			(at 200.66 130.81 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 195.58 130.048 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 195.58 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 195.58 128.27 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e8f815d0-959a-456a-9d85-6a5378956ca4")
-		)
-		(pin "2"
-			(uuid "17914877-b9ed-4d7a-95fe-b35ada137774")
-		)
-		(instances
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/043d7997-457e-4619-a5b3-825bed78c0a6"
-					(reference "R?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a"
-					(reference "R?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/dd14cf3d-4389-4481-a76a-0ee1e1deddd9"
-					(reference "R?")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
-					(reference "R50")
 					(unit 1)
 				)
 			)
@@ -7070,7 +7032,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR072")
 					(unit 1)
@@ -7148,7 +7110,7 @@
 			(uuid "4e8c493e-7664-4da2-95f7-f28f7c1b6507")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR070")
 					(unit 1)
@@ -7445,7 +7407,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "J34")
 					(unit 1)
@@ -7540,7 +7502,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "R47")
 					(unit 1)
@@ -7628,7 +7590,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR078")
 					(unit 1)
@@ -7712,9 +7674,90 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "R48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Small")
+		(at 144.78 185.42 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "99418a0c-6eed-4def-ba4d-cbcfe6db44cc")
+		(property "Reference" "D13"
+			(at 147.32 184.2135 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RX"
+			(at 147.32 186.7535 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+			(at 144.78 185.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 185.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 144.78 185.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8c606129-0f0e-4857-add5-3b9b3b829ea1")
+		)
+		(pin "2"
+			(uuid "37e91e27-2f7c-4811-a46d-72a01ac25489")
+		)
+		(instances
+			(project "pic_analogs"
+				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -7804,7 +7847,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "R54")
 					(unit 1)
@@ -7892,7 +7935,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR079")
 					(unit 1)
@@ -7984,7 +8027,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "R53")
 					(unit 1)
@@ -8072,7 +8115,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR073")
 					(unit 1)
@@ -8160,9 +8203,165 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR077")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 144.78 199.39 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c244ba86-5fa1-4308-9cd4-7b8593ee3742")
+		(property "Reference" "R100"
+			(at 151.13 199.39 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2k2"
+			(at 148.59 199.39 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 143.764 199.136 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 144.78 199.39 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "046a44cd-8dcf-43bb-97d4-b66fa409e97f")
+		)
+		(pin "2"
+			(uuid "9f1cca9b-7f06-4f21-9c8a-7dba5d2c7893")
+		)
+		(instances
+			(project "pic_analogs"
+				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
+					(reference "R100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 158.75 199.39 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c90946ee-6f1d-42d8-abd7-ad088c11401e")
+		(property "Reference" "R103"
+			(at 165.1 199.39 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2k2"
+			(at 162.56 199.39 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 157.734 199.136 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 158.75 199.39 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "49c97b49-8e9a-406e-a6bb-8817cb5e947e")
+		)
+		(pin "2"
+			(uuid "ebfc7a6e-2ea5-4d7c-9839-f7154f7d2c39")
+		)
+		(instances
+			(project "pic_analogs"
+				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
+					(reference "R103")
 					(unit 1)
 				)
 			)
@@ -8244,7 +8443,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "R49")
 					(unit 1)
@@ -8321,7 +8520,7 @@
 			(uuid "c4593eda-7f1d-486d-89ca-557d85c02251")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR069")
 					(unit 1)
@@ -8409,7 +8608,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "R46")
 					(unit 1)
@@ -8496,7 +8695,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR083")
 					(unit 1)
@@ -8573,9 +8772,90 @@
 			(uuid "c6ad9451-5caf-4434-b4db-d2058d46b8af")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR076")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Small")
+		(at 158.75 185.42 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f3f724ba-ab69-4812-bf0d-dc9c569fff27")
+		(property "Reference" "D14"
+			(at 161.29 184.2135 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RX"
+			(at 161.29 186.7535 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+			(at 158.75 185.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 185.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 158.75 185.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "84fbfdcd-5a2e-4d00-84d2-59e339d7394f")
+		)
+		(pin "2"
+			(uuid "e168e1c0-c7cb-4a68-919f-3d3165a6d07f")
+		)
+		(instances
+			(project "pic_analogs"
+				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -8660,7 +8940,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR074")
 					(unit 1)
@@ -8747,7 +9027,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(reference "#PWR084")
 					(unit 1)
@@ -8756,7 +9036,7 @@
 		)
 	)
 	(sheet
-		(at 50.8 35.56)
+		(at 26.67 24.765)
 		(size 31.75 20.32)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8772,7 +9052,7 @@
 		)
 		(uuid "0955ec0f-cd10-4773-a833-c5ec9aee34e0")
 		(property "Sheetname" "mrf24j40"
-			(at 50.8 34.8484 0)
+			(at 26.67 24.0534 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8783,7 +9063,7 @@
 			)
 		)
 		(property "Sheetfile" "mrf24j40.kicad_sch"
-			(at 50.8 56.4646 0)
+			(at 26.67 45.6696 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8794,7 +9074,7 @@
 			)
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(page "8")
 				)
@@ -8802,7 +9082,7 @@
 		)
 	)
 	(sheet
-		(at 238.76 34.29)
+		(at 302.26 42.545)
 		(size 27.94 27.94)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8818,7 +9098,7 @@
 		)
 		(uuid "899ba688-2d76-49ef-a213-1bdea005eafe")
 		(property "Sheetname" "epaper"
-			(at 238.76 33.5784 0)
+			(at 302.26 41.8334 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8829,7 +9109,7 @@
 			)
 		)
 		(property "Sheetfile" "epaper.kicad_sch"
-			(at 238.76 62.8146 0)
+			(at 302.26 71.0696 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8840,7 +9120,7 @@
 			)
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(page "13")
 				)
@@ -8848,7 +9128,7 @@
 		)
 	)
 	(sheet
-		(at 29.21 119.38)
+		(at 22.225 120.015)
 		(size 27.94 20.32)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8864,7 +9144,7 @@
 		)
 		(uuid "bbb9e39c-3ffd-4549-9b22-3261c63512e3")
 		(property "Sheetname" "ads1115"
-			(at 29.21 118.6684 0)
+			(at 22.225 119.3034 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8875,7 +9155,7 @@
 			)
 		)
 		(property "Sheetfile" "ads1115.kicad_sch"
-			(at 29.21 140.2846 0)
+			(at 22.225 140.9196 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8886,7 +9166,7 @@
 			)
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(page "7")
 				)
@@ -8894,7 +9174,7 @@
 		)
 	)
 	(sheet
-		(at 234.95 88.9)
+		(at 290.195 123.825)
 		(size 27.94 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8910,7 +9190,7 @@
 		)
 		(uuid "bf831764-54a3-4e4e-a84a-fb9339c9ae35")
 		(property "Sheetname" "ft232"
-			(at 234.95 88.1884 0)
+			(at 290.195 123.1134 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8921,7 +9201,7 @@
 			)
 		)
 		(property "Sheetfile" "ft232.kicad_sch"
-			(at 234.95 114.8846 0)
+			(at 290.195 149.8096 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8932,7 +9212,7 @@
 			)
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(page "11")
 				)
@@ -8978,7 +9258,7 @@
 			)
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(page "6")
 				)
@@ -8986,7 +9266,7 @@
 		)
 	)
 	(sheet
-		(at 38.1 156.21)
+		(at 24.765 161.925)
 		(size 31.75 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9002,7 +9282,7 @@
 		)
 		(uuid "eead140f-be56-45c2-acde-f45312a0c9e8")
 		(property "Sheetname" "buttons_rpi"
-			(at 38.1 155.4984 0)
+			(at 24.765 161.2134 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9013,7 +9293,7 @@
 			)
 		)
 		(property "Sheetfile" "buttons_rpi.kicad_sch"
-			(at 38.1 179.6546 0)
+			(at 24.765 185.3696 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9024,7 +9304,7 @@
 			)
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa"
 					(page "9")
 				)

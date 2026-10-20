@@ -778,7 +778,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/eead140f-be56-45c2-acde-f45312a0c9e8"
 					(reference "R77")
 					(unit 1)
@@ -864,7 +864,7 @@
 			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b340")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/eead140f-be56-45c2-acde-f45312a0c9e8"
 					(reference "SW5")
 					(unit 1)
@@ -949,7 +949,7 @@
 			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b341")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/eead140f-be56-45c2-acde-f45312a0c9e8"
 					(reference "SW7")
 					(unit 1)
@@ -1034,7 +1034,7 @@
 			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b342")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/eead140f-be56-45c2-acde-f45312a0c9e8"
 					(reference "SW4")
 					(unit 1)
@@ -1118,7 +1118,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/eead140f-be56-45c2-acde-f45312a0c9e8"
 					(reference "R78")
 					(unit 1)
@@ -1203,7 +1203,7 @@
 			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b33f")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/eead140f-be56-45c2-acde-f45312a0c9e8"
 					(reference "SW6")
 					(unit 1)
@@ -1287,7 +1287,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/eead140f-be56-45c2-acde-f45312a0c9e8"
 					(reference "R76")
 					(unit 1)
@@ -1371,7 +1371,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/eead140f-be56-45c2-acde-f45312a0c9e8"
 					(reference "R79")
 					(unit 1)
@@ -1448,7 +1448,7 @@
 			(uuid "fc85a5fc-9ff6-45f0-8fed-0d883cbbe14f")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/eead140f-be56-45c2-acde-f45312a0c9e8"
 					(reference "#PWR0117")
 					(unit 1)

@@ -1418,7 +1418,7 @@
 			(uuid "9af84197-d380-471a-b696-23bdbd6f07d1")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/6591ddab-d771-4291-9053-6eeafa62c642"
 					(reference "#PWR065")
 					(unit 1)
@@ -1518,7 +1518,7 @@
 			(uuid "09e62700-19de-4b14-a811-86d1cc8faee1")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/6591ddab-d771-4291-9053-6eeafa62c642"
 					(reference "J33")
 					(unit 1)
@@ -1602,7 +1602,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/6591ddab-d771-4291-9053-6eeafa62c642"
 					(reference "R41")
 					(unit 1)
@@ -1678,7 +1678,7 @@
 			(uuid "cd96a6ea-1596-4598-80b2-c1312fb653e7")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/6591ddab-d771-4291-9053-6eeafa62c642"
 					(reference "#PWR067")
 					(unit 1)
@@ -1755,7 +1755,7 @@
 			(uuid "677c7ef7-37a4-449f-88e8-1abde5f7694e")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/6591ddab-d771-4291-9053-6eeafa62c642"
 					(reference "#PWR063")
 					(unit 1)
@@ -1839,7 +1839,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/6591ddab-d771-4291-9053-6eeafa62c642"
 					(reference "R45")
 					(unit 1)
@@ -1916,7 +1916,7 @@
 			(uuid "b6bd8248-2411-454d-b44c-90612deecf84")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/6591ddab-d771-4291-9053-6eeafa62c642"
 					(reference "#PWR066")
 					(unit 1)
@@ -2000,7 +2000,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/6591ddab-d771-4291-9053-6eeafa62c642"
 					(reference "R43")
 					(unit 1)
@@ -2076,7 +2076,7 @@
 			(uuid "0e8a7307-2e62-49a2-ae99-475282de4943")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/6591ddab-d771-4291-9053-6eeafa62c642"
 					(reference "#PWR064")
 					(unit 1)
@@ -2160,7 +2160,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/6591ddab-d771-4291-9053-6eeafa62c642"
 					(reference "R42")
 					(unit 1)
@@ -2244,7 +2244,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/6591ddab-d771-4291-9053-6eeafa62c642"
 					(reference "R44")
 					(unit 1)
@@ -2321,7 +2321,7 @@
 			(uuid "15658cca-b7d3-44ac-85c9-69a451ad0fd5")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/6591ddab-d771-4291-9053-6eeafa62c642"
 					(reference "#PWR062")
 					(unit 1)
@@ -2405,7 +2405,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/6591ddab-d771-4291-9053-6eeafa62c642"
 					(reference "R40")
 					(unit 1)

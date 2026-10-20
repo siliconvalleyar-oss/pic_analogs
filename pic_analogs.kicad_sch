@@ -1102,7 +1102,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Electgpl - VSWR Bridge for Arduino"
+	(text "VSWR Bridge for Arduino"
 		(exclude_from_sim no)
 		(at 181.61 175.26 0)
 		(effects
@@ -1701,99 +1701,6 @@
 		)
 		(uuid "fef1a81b-8659-4990-9f6f-957e102d354f")
 	)
-	(image
-		(at 157.48 190.5)
-		(scale 0.224709)
-		(uuid "a1d5e823-6f77-4e09-9be8-0165fd8b682f")
-		(data "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"
-			"QmCC"
-		)
-	)
 	(label "RF_F"
 		(at 144.78 99.06 0)
 		(effects
@@ -1897,7 +1804,7 @@
 			(uuid "77f18e15-510e-44d4-9157-e3e7ca5b42d7")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "C5")
 					(unit 1)
@@ -1974,7 +1881,7 @@
 			(uuid "2614d2de-2a41-4280-a215-dd13365b105b")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR011")
 					(unit 1)
@@ -2051,7 +1958,7 @@
 			(uuid "be19663d-f3a3-4aa3-940d-7aa6533b6437")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR08")
 					(unit 1)
@@ -2131,7 +2038,7 @@
 			(uuid "3c892c60-4f86-48f3-91d3-2fb859219cfc")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "J2")
 					(unit 1)
@@ -2212,7 +2119,7 @@
 			(uuid "5fa64f1c-b9a2-46e8-b95a-c53822fd905c")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "C1")
 					(unit 1)
@@ -2293,7 +2200,7 @@
 			(uuid "134f784a-6531-483f-a4f4-abc70c9e2b53")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "C4")
 					(unit 1)
@@ -2369,7 +2276,7 @@
 			(uuid "225120f9-38b8-466f-a108-bf2561e414ae")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR05")
 					(unit 1)
@@ -2446,7 +2353,7 @@
 			(uuid "93185653-398a-48a2-a86c-b890f13c2622")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR014")
 					(unit 1)
@@ -2523,7 +2430,7 @@
 			(uuid "f1bd249f-38fb-42ab-8e6c-21f873e9353c")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR015")
 					(unit 1)
@@ -2600,7 +2507,7 @@
 			(uuid "f22511c3-4ca8-4604-978a-b7827469aeb1")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR02")
 					(unit 1)
@@ -2681,7 +2588,7 @@
 			(uuid "0119aa6b-2848-4ab5-bdfd-b75d764f2994")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "R1")
 					(unit 1)
@@ -2761,7 +2668,7 @@
 			(uuid "98b71cfc-c533-4ff3-8c4a-b566512e8767")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "D2")
 					(unit 1)
@@ -2838,7 +2745,7 @@
 			(uuid "b7fadbbd-3664-4aab-8ee6-b23a5391f0d5")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR09")
 					(unit 1)
@@ -2915,7 +2822,7 @@
 			(uuid "fb466e9d-555d-49ce-aaad-2d12a69817a3")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR03")
 					(unit 1)
@@ -2996,7 +2903,7 @@
 			(uuid "b1b44f19-9810-4c37-8334-2723acb6aaf4")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "C3")
 					(unit 1)
@@ -3073,7 +2980,7 @@
 			(uuid "c758c674-dec3-4775-a887-255053d1e255")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR013")
 					(unit 1)
@@ -3153,7 +3060,7 @@
 			(uuid "e8f2444e-7aa9-4753-b3f0-d540442c81f1")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "J1")
 					(unit 1)
@@ -3234,7 +3141,7 @@
 			(uuid "48467f30-600f-4471-9cec-ead66536ccb8")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "R7")
 					(unit 1)
@@ -3311,7 +3218,7 @@
 			(uuid "96389503-4117-48cb-a467-70dd18eb79a7")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR07")
 					(unit 1)
@@ -3390,7 +3297,7 @@
 			(uuid "e0fe6acd-26c4-4326-93c3-0c4de9118e65")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "D1")
 					(unit 1)
@@ -3469,7 +3376,7 @@
 			(uuid "829afdef-75cf-4d92-8609-a72613d8ab2a")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "R9")
 					(unit 1)
@@ -3550,7 +3457,7 @@
 			(uuid "04863166-b6dc-4c83-b40a-98e9d3905e01")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "R10")
 					(unit 1)
@@ -3627,7 +3534,7 @@
 			(uuid "47c14699-2401-4bb2-b98d-d2cb8116f2d4")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR010")
 					(unit 1)
@@ -3708,7 +3615,7 @@
 			(uuid "f2c82efe-104a-4ed3-9420-a04b837e5fcf")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "R6")
 					(unit 1)
@@ -3788,7 +3695,7 @@
 			(uuid "83713924-69a1-4c5f-bb72-78fc31a88618")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "J4")
 					(unit 1)
@@ -3869,7 +3776,7 @@
 			(uuid "39b3d54a-4600-4cfc-acd5-e4453b0f8cf2")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "R5")
 					(unit 1)
@@ -3950,7 +3857,7 @@
 			(uuid "e02f878e-a82c-4fc8-aa01-d8d3b7f0c69c")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "C6")
 					(unit 1)
@@ -4031,7 +3938,7 @@
 			(uuid "9a77dfca-41a2-41fd-bce5-741b0487bb08")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "R4")
 					(unit 1)
@@ -4108,7 +4015,7 @@
 			(uuid "639798ea-1023-4796-a730-02cac29d499a")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR06")
 					(unit 1)
@@ -4189,7 +4096,7 @@
 			(uuid "5b61abe9-f9f8-43f0-ba75-4143675974bc")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "R8")
 					(unit 1)
@@ -4269,7 +4176,7 @@
 			(uuid "7c259c3b-da30-4052-931c-05881c23cdc5")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "FB2")
 					(unit 1)
@@ -4350,7 +4257,7 @@
 			(uuid "17e3848b-ea71-45ee-9ee3-01544c2a3d8a")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "R3")
 					(unit 1)
@@ -4427,7 +4334,7 @@
 			(uuid "3e297a4a-49c3-46c1-8828-7403d9ffb944")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR01")
 					(unit 1)
@@ -4504,7 +4411,7 @@
 			(uuid "14042c0b-2d9a-4c22-bab7-9240656f1360")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR017")
 					(unit 1)
@@ -4585,7 +4492,7 @@
 			(uuid "aeb46bdd-78fa-42f6-b39b-b68dcb23abb8")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "C2")
 					(unit 1)
@@ -4662,7 +4569,7 @@
 			(uuid "76088a51-3b7f-4346-9905-1209cea8f02a")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR012")
 					(unit 1)
@@ -4739,7 +4646,7 @@
 			(uuid "d90cdfd9-3c35-494e-9ef7-8eacfd1d2ce6")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR04")
 					(unit 1)
@@ -4818,7 +4725,7 @@
 			(uuid "02799f4d-7820-45c4-8fe2-3c370e1be375")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "FB1")
 					(unit 1)
@@ -4897,7 +4804,7 @@
 			(uuid "442e4dc7-2895-4428-8523-67df6744fec6")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "R2")
 					(unit 1)
@@ -4977,7 +4884,7 @@
 			(uuid "0fbf091f-f89e-4a59-99e6-e8c1eb7f2347")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "J3")
 					(unit 1)
@@ -5054,7 +4961,7 @@
 			(uuid "21a07a44-4b38-42aa-ad55-62f8d320f902")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(reference "#PWR016")
 					(unit 1)
@@ -5123,7 +5030,7 @@
 			)
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4"
 					(page "2")
 				)

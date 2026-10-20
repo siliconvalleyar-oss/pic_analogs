@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.55,
-          "width": 1.5
+          "height": 1.75,
+          "width": 1.75
         },
         "silk_line_width": 0.07,
         "silk_text_italic": false,
@@ -715,7 +715,7 @@
         "uuid": "b399551b-4b97-4302-8921-d6009c0adde4"
       }
     ],
-    "used_designators": "Y2,J5",
+    "used_designators": "D13-14,R97,R100,R103,#PWR97-100,Y2,J5-6,J55",
     "variants": []
   },
   "sheets": [

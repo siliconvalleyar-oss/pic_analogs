@@ -3915,7 +3915,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "#PWR0155")
 					(unit 1)
@@ -3999,7 +3999,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "R106")
 					(unit 1)
@@ -4040,7 +4040,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 80.3148 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -4089,7 +4089,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "C44")
 					(unit 1)
@@ -4131,7 +4131,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-128"
 			(at 139.7 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -4170,7 +4170,7 @@
 			(uuid "5a6af038-9a19-45f6-aac0-187b0527a2b6")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "D10")
 					(unit 1)
@@ -4246,7 +4246,7 @@
 			(uuid "3c598f34-24c3-43b9-9447-98978b05c3b7")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "J54")
 					(unit 1)
@@ -4287,7 +4287,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 115.8748 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4336,7 +4336,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "C46")
 					(unit 1)
@@ -4426,7 +4426,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "C50")
 					(unit 1)
@@ -4720,7 +4720,7 @@
 			(uuid "54f8656b-e76f-4b38-99f2-2db6dfca4f29")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "J53")
 					(unit 1)
@@ -4800,7 +4800,7 @@
 			(uuid "1d036fa4-034e-4730-8b7b-dbf79e4e7c3a")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "JP4")
 					(unit 1)
@@ -4890,7 +4890,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "C48")
 					(unit 1)
@@ -4930,7 +4930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-128"
 			(at 186.69 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -4969,7 +4969,7 @@
 			(uuid "4b751a67-2db4-4635-b32d-1883ed68bab3")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "D12")
 					(unit 1)
@@ -5087,7 +5087,7 @@
 			(uuid "2f4ba9cf-6f34-4a66-840b-ac770d878928")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "Q1")
 					(unit 1)
@@ -5167,7 +5167,7 @@
 			(uuid "7bfca696-069e-4f84-9590-e12ef051ceab")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "JP3")
 					(unit 1)
@@ -5262,7 +5262,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "#PWR0156")
 					(unit 1)
@@ -5357,7 +5357,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "#PWR0153")
 					(unit 1)
@@ -5433,7 +5433,7 @@
 			(uuid "06f3707f-a71f-4703-8238-c55a50c3ca0e")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "J59")
 					(unit 1)
@@ -5509,7 +5509,7 @@
 			(uuid "ec9e0fc8-2ebe-4c95-a0b3-65d99d67c5e0")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "J56")
 					(unit 1)
@@ -5550,7 +5550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 89.2048 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -5599,7 +5599,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "C45")
 					(unit 1)
@@ -5689,7 +5689,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "C51")
 					(unit 1)
@@ -5765,7 +5765,7 @@
 			(uuid "a4dd847a-91d6-4a5c-881c-db96dafccbc4")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "J57")
 					(unit 1)
@@ -5806,7 +5806,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 138.7348 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -5855,7 +5855,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "C47")
 					(unit 1)
@@ -5897,7 +5897,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-128"
 			(at 171.45 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -5936,7 +5936,7 @@
 			(uuid "82790dee-aae7-4381-889d-4613c2261c9d")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "D11")
 					(unit 1)
@@ -6016,7 +6016,7 @@
 			(uuid "fce0f60e-de42-4912-9ce1-01cf6ef51782")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "JP6")
 					(unit 1)
@@ -6106,7 +6106,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "C52")
 					(unit 1)
@@ -6201,7 +6201,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "#PWR0154")
 					(unit 1)
@@ -6281,7 +6281,7 @@
 			(uuid "f180b941-0c78-4275-939f-178ff20bff75")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "JP5")
 					(unit 1)
@@ -6358,7 +6358,7 @@
 			(uuid "dcf37a3e-05ad-4206-8625-5a4b67ab067c")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "#PWR0151")
 					(unit 1)
@@ -6453,7 +6453,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "#PWR0152")
 					(unit 1)
@@ -6532,7 +6532,7 @@
 			(uuid "85c981fc-80d7-4e41-9939-d8fb0e86cc2a")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "L2")
 					(unit 1)
@@ -6609,7 +6609,7 @@
 			(uuid "91179607-b338-483e-b563-45694a177414")
 		)
 		(instances
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "J58")
 					(unit 1)
@@ -6699,7 +6699,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "C49")
 					(unit 1)
@@ -6789,7 +6789,7 @@
 					(unit 1)
 				)
 			)
-			(project "ArduSWR"
+			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/899ba688-2d76-49ef-a213-1bdea005eafe"
 					(reference "C53")
 					(unit 1)

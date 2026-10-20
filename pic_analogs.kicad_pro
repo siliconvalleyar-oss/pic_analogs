@@ -715,7 +715,7 @@
         "uuid": "b399551b-4b97-4302-8921-d6009c0adde4"
       }
     ],
-    "used_designators": "D13-14,R97,R100,R103,#PWR97-102,#PWR141,Y2,J5-7,J55",
+    "used_designators": "U8,R96,R98-99,R101-102,R104,C42-43,#PWR145,#PWR147-150,#PWR157-158",
     "variants": []
   },
   "sheets": [
@@ -764,7 +764,7 @@
       "ft232"
     ],
     [
-      "8e63fd80-58cd-43ae-95be-adc0ea16d694",
+      "c3e23521-7cbd-468b-b41c-5d13eed80224",
       "memory_spi"
     ],
     [

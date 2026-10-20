@@ -14573,52 +14573,6 @@
 		)
 	)
 	(sheet
-		(at 26.67 81.28)
-		(size 29.21 22.86)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "8e63fd80-58cd-43ae-95be-adc0ea16d694")
-		(property "Sheetname" "memory_spi"
-			(at 26.67 80.5684 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "memory_spi.kicad_sch"
-			(at 26.67 104.7246 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "pic_analogs"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9"
-					(page "12")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 24.13 113.03)
 		(size 30.48 26.67)
 		(exclude_from_sim no)

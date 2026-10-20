@@ -715,7 +715,7 @@
         "uuid": "b399551b-4b97-4302-8921-d6009c0adde4"
       }
     ],
-    "used_designators": "D13-14,R97,R100,R103,#PWR97-100,Y2,J5-6,J55",
+    "used_designators": "D13-14,R97,R100,R103,#PWR97-102,#PWR141,Y2,J5-7,J55",
     "variants": []
   },
   "sheets": [

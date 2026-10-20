@@ -514,7 +514,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ArduSWR.kicad_pro",
+    "filename": "pic_analogs.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -710,8 +710,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "ArduSWR.kicad_sch",
-        "name": "ArduSWR",
+        "filename": "pic_analogs.kicad_sch",
+        "name": "pic_analogs",
         "uuid": "b399551b-4b97-4302-8921-d6009c0adde4"
       }
     ],
@@ -721,7 +721,7 @@
   "sheets": [
     [
       "b399551b-4b97-4302-8921-d6009c0adde4",
-      "ArduSWR"
+      "pic_analogs"
     ],
     [
       "1d579dcc-e933-4401-b651-260801c00407",

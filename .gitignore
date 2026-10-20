@@ -1,0 +1,102 @@
+# ============================================
+# KiCad 10 .gitignore
+# ============================================
+
+# --- Backup files ---
+*~
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro-bak
+*.kicad_prl-bak
+*.kicad_sym-bak
+*.kicad_mod-bak
+*.bck
+*.bak
+*.backup
+*-bak
+*#*
+
+# --- Lock files ---
+*.lck
+*.kicad_lck
+
+# --- Generated / Cache ---
+fp-info-cache
+*.csv
+*.net
+*.dsn
+*.ses
+*.rpt
+*.log
+*.erc
+*.xml
+*-cache.lib
+*-cache.yaml
+*.tmp
+
+# --- DRC / ERC reports ---
+*.drc
+*.erc
+*reports/
+
+# --- Fabrication output ---
+gerber/
+gerbers/
+*.gbr
+*.drl
+*.gbl
+*.gbs
+*.gbo
+*.gtp
+*.gbp
+*.gto
+*.gtl
+*.gm1
+*.gml
+*.gko
+*.pos
+*.rpt
+F.Cu.gbr
+B.Cu.gbr
+F.SilkS.gbr
+B.SilkS.gbr
+Edge.Cuts.gbr
+
+# --- 3D render cache ---
+*.3dshapes/
+vrml/
+step/
+
+# --- Backup folders ---
+*-backups/
+*backups/
+
+# --- Local settings (per-user) ---
+*.kicad_prl
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# --- History / Local ---
+.history/
+.historical/
+
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Misc ---
+*.orig
+*.rej

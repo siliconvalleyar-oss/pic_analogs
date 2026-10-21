@@ -765,8 +765,8 @@
 				)
 			)
 		)
-		(property "JLCImport" ""
-			(at 142.24 111.76 90)
+				(property "JLCImport" "C25804"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -774,6 +774,8 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
 			)
 		)
 		(pin "1"
@@ -1155,8 +1157,8 @@
 				)
 			)
 		)
-		(property "JLCImport" ""
-			(at 142.24 123.19 90)
+				(property "JLCImport" "C25804"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1164,6 +1166,8 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
 			)
 		)
 		(pin "1"
@@ -1348,8 +1352,8 @@
 				)
 			)
 		)
-		(property "JLCImport" ""
-			(at 142.24 90.17 90)
+				(property "JLCImport" "C25804"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1357,6 +1361,8 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
 			)
 		)
 		(pin "1"
@@ -1443,8 +1449,8 @@
 				)
 			)
 		)
-		(property "JLCImport" ""
-			(at 142.24 133.35 90)
+				(property "JLCImport" "C25804"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1452,6 +1458,8 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
 			)
 		)
 		(pin "1"

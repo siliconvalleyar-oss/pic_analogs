@@ -1242,6 +1242,21 @@
 				)
 			)
 		)
+						(property "JLCImport" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+			)
+		)
+			)
+		)
 		(pin "1"
 			(uuid "f3906679-9e61-4e30-9746-dd231b5e0298")
 		)
@@ -1318,6 +1333,19 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+				(property "JLCImport" "C25804"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 			)
 		)
 		(pin "1"
@@ -1706,6 +1734,19 @@
 				)
 			)
 		)
+				(property "JLCImport" "C25804"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+			)
+		)
 		(pin "1"
 			(uuid "d2d9c49f-7a09-4d16-a1ee-a1aefa00af90")
 		)
@@ -1785,6 +1826,19 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+				(property "JLCImport" "C173228"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 			)
 		)
 		(pin "1"
@@ -1881,6 +1935,19 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+				(property "JLCImport" "C25804"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 			)
 		)
 		(pin "1"

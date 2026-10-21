@@ -2540,6 +2540,21 @@
 				)
 			)
 		)
+						(property "JLCImport" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+			)
+		)
+			)
+		)
 		(pin "1"
 			(uuid "135a44e1-a657-4036-8468-2cca412fb78f")
 		)
@@ -2725,6 +2740,19 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+				(property "JLCImport" "C25808"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 			)
 		)
 		(pin "1"
@@ -2970,6 +2998,17 @@
 		)
 		(property "Description" ""
 			(at 129.54 104.14 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCImport" ""
+			(at 129.54 104.14 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3508,6 +3547,17 @@
 				)
 			)
 		)
+		(property "JLCImport" ""
+			(at 163.83 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2cfe979a-a637-43c1-b97b-e655677ad3f1")
 		)
@@ -3679,6 +3729,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 134.62 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCImport" ""
 			(at 134.62 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -3862,6 +3923,21 @@
 				)
 			)
 		)
+						(property "JLCImport" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+			)
+		)
+			)
+		)
 		(pin "1"
 			(uuid "88a8acb1-be48-47e8-8df5-16a236234286")
 		)
@@ -3958,6 +4034,19 @@
 				)
 			)
 		)
+				(property "JLCImport" "C25808"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+			)
+		)
 		(pin "1"
 			(uuid "0abbfa77-ce5b-4f23-8df0-20d7ce36da0c")
 		)
@@ -4042,6 +4131,21 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+						(property "JLCImport" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+			)
+		)
 			)
 		)
 		(pin "1"

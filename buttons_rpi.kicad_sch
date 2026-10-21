@@ -765,6 +765,17 @@
 				)
 			)
 		)
+		(property "JLCImport" ""
+			(at 142.24 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a717583e-3195-4e70-9106-523a3140c12f")
 		)
@@ -849,6 +860,19 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+				(property "JLCImport" "C423200"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 			)
 		)
 		(pin "1"
@@ -936,6 +960,19 @@
 				)
 			)
 		)
+				(property "JLCImport" "C423200"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+			)
+		)
 		(pin "1"
 			(uuid "97cd4928-ba08-4da3-abb9-0771a75c7f21")
 		)
@@ -1021,6 +1058,19 @@
 				)
 			)
 		)
+				(property "JLCImport" "C423200"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+			)
+		)
 		(pin "1"
 			(uuid "61e4a6c2-8f60-4e67-8967-7cc68fce14d4")
 		)
@@ -1097,6 +1147,17 @@
 		)
 		(property "Description" ""
 			(at 142.24 123.19 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCImport" ""
+			(at 142.24 123.19 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1190,6 +1251,19 @@
 				)
 			)
 		)
+				(property "JLCImport" "C423200"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+			)
+		)
 		(pin "1"
 			(uuid "68a9da23-8b7a-4376-8662-f199ba4057a6")
 		)
@@ -1274,6 +1348,17 @@
 				)
 			)
 		)
+		(property "JLCImport" ""
+			(at 142.24 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "38cec0ec-5928-471a-b42b-a69a9b88a833")
 		)
@@ -1350,6 +1435,17 @@
 		)
 		(property "Description" ""
 			(at 142.24 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCImport" ""
+			(at 142.24 133.35 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

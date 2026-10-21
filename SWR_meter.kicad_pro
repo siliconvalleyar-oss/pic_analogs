@@ -980,10 +980,10 @@
           "show": false
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "JLCImport",
           "name": "JLCImport",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",

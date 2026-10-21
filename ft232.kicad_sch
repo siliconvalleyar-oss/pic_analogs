@@ -2679,12 +2679,6 @@
 		(uuid "550ec08e-94ba-426c-bc25-ad2a20f8c1c1")
 	)
 	(junction
-		(at 215.9 29.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "622105ff-cdfe-4792-9a94-ead435c43f75")
-	)
-	(junction
 		(at 148.59 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3039,16 +3033,6 @@
 			(type default)
 		)
 		(uuid "31ce9603-a5f8-412d-88b5-74b873858ef1")
-	)
-	(wire
-		(pts
-			(xy 204.47 29.21) (xy 215.9 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "34cbe4bd-6441-44d4-a0eb-cf2a137cf5c9")
 	)
 	(wire
 		(pts
@@ -6136,108 +6120,6 @@
 			(project "pic_analogs"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/bf831764-54a3-4e4e-a84a-fb9339c9ae35"
 					(reference "J52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x01_Pin")
-		(at 199.39 29.21 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "61146b48-9800-4e1b-8a4e-643213193bbe")
-		(property "Reference" "J51"
-			(at 198.12 27.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "tp_ft232_"
-			(at 208.28 27.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kiC:TestPoint_Pad_1.0x1.0mm"
-			(at 199.39 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 199.39 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 199.39 29.21 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b8935e76-fe32-472e-9383-5ba2f8b226d9")
-		)
-		(instances
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/043d7997-457e-4619-a5b3-825bed78c0a6"
-					(reference "J?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b9fd0ca8-f7e7-4588-ad19-ad837ba6f041"
-					(reference "J?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/f2931b9b-6fcc-4199-91d8-d06fd17cb974"
-					(reference "J?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/32a7254d-5557-4ccc-9a6b-7cf735213f61"
-					(reference "J?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/8cc3d87e-66d3-4bb3-be5f-abca356f4cca"
-					(reference "J?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/e3fc7fc0-eca8-4036-a3b0-cc543ef64249"
-					(reference "J?")
-					(unit 1)
-				)
-			)
-			(project "pic_analogs"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/bf831764-54a3-4e4e-a84a-fb9339c9ae35"
-					(reference "J51")
 					(unit 1)
 				)
 			)

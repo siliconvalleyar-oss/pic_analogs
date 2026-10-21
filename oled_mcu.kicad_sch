@@ -1720,7 +1720,7 @@
 			(uuid "2e04f048-2d0a-4b43-adcd-df197267804d")
 		)
 		(instances
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "#PWR0118")
 					(unit 1)
@@ -1827,7 +1827,7 @@
 					(unit 1)
 				)
 			)
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "J42")
 					(unit 1)
@@ -1918,7 +1918,7 @@
 					(unit 1)
 				)
 			)
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "#PWR0121")
 					(unit 1)
@@ -1995,7 +1995,7 @@
 			(uuid "8101bf57-f17a-424e-a412-5fae5fba2468")
 		)
 		(instances
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "#PWR0122")
 					(unit 1)
@@ -2072,7 +2072,7 @@
 			(uuid "4244c44a-bc26-427c-a880-42b19df50141")
 		)
 		(instances
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "#PWR0124")
 					(unit 1)
@@ -2170,7 +2170,7 @@
 					(unit 1)
 				)
 			)
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "C31")
 					(unit 1)
@@ -2268,7 +2268,7 @@
 					(unit 1)
 				)
 			)
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "C32")
 					(unit 1)
@@ -2359,7 +2359,7 @@
 					(unit 1)
 				)
 			)
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "#PWR0119")
 					(unit 1)
@@ -2443,7 +2443,7 @@
 					(unit 1)
 				)
 			)
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "R80")
 					(unit 1)
@@ -2520,7 +2520,7 @@
 			(uuid "76a6c7f0-0a57-48a8-adea-4bc93f35bded")
 		)
 		(instances
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "#PWR0101")
 					(unit 1)
@@ -2604,7 +2604,7 @@
 					(unit 1)
 				)
 			)
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "R81")
 					(unit 1)
@@ -2681,7 +2681,7 @@
 			(uuid "b8a58333-ee5e-4747-a4b6-459b73839e60")
 		)
 		(instances
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "#PWR0123")
 					(unit 1)
@@ -2758,7 +2758,7 @@
 			(uuid "79adc705-6cf9-4a68-a2d1-1afaa9be78dd")
 		)
 		(instances
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "#PWR0141")
 					(unit 1)
@@ -2843,7 +2843,7 @@
 			(uuid "e49d8926-1900-493f-92a3-22884e9234e5")
 		)
 		(instances
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "J7")
 					(unit 1)
@@ -2920,7 +2920,7 @@
 			(uuid "52367366-b8ce-475c-9f08-e66e7597ffdf")
 		)
 		(instances
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "#PWR0120")
 					(unit 1)
@@ -3011,7 +3011,7 @@
 					(unit 1)
 				)
 			)
-			(project "pic_analogs"
+			(project "SWR_meter"
 				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/f7a56bbd-39a1-430a-bdd1-a7dde6b379cf"
 					(reference "#PWR0125")
 					(unit 1)
